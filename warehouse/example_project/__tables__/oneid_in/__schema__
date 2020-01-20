@@ -1,0 +1,3 @@
+project=example_project
+table=oneid_in
+columns=v:bigint,es:string
