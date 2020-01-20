@@ -90,7 +90,7 @@ public class ConnectedComponents {
                 throws IOException {
             CCVertex vertex = new CCVertex();
             vertex.setId((LongWritable) record.get(0));
-            String[] edges = record.get(1).toString().split(",");
+            String[] edges = record.get(1).toString().split(":");
             for (int i = 0; i < edges.length; i++) {
                 long destID = Long.parseLong(edges[i]);
                 vertex.addEdge(new LongWritable(destID), NullWritable.get());

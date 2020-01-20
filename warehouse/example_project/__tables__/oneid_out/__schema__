@@ -1,3 +1,3 @@
 project=example_project
-table=oneid_in
+table=oneid_out
 columns=v:bigint,minID:bigint
