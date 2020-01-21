@@ -2,258 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8d445c-89ad-4806-8403-ab8d3c61f762" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/ConnectedComponents$CCVertexReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/ConnectedComponents$CCVertexReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/counters/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/counters/graph_20200120112744_027_79791" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/input/example_project/pagerank_in/__schema__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/input/example_project/pagerank_in/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/job.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/output/__default__/__schema__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/output/__default__/attempt_graph_20200120112744_027_79791_000000_0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/1/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/1/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/1/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/1/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/10/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/10/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/10/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/10/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/11/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/11/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/11/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/11/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/12/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/12/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/12/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/12/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/13/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/13/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/13/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/13/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/14/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/14/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/14/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/14/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/15/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/15/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/15/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/15/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/16/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/16/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/16/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/16/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/17/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/17/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/17/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/17/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/18/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/18/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/18/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/18/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/19/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/19/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/19/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/19/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/2/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/2/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/2/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/2/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/20/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/20/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/20/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/20/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/21/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/21/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/21/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/21/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/22/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/22/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/22/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/22/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/23/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/23/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/23/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/23/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/24/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/24/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/24/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/24/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/25/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/25/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/25/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/25/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/26/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/26/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/26/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/26/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/27/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/27/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/27/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/27/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/28/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/28/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/28/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/28/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/29/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/29/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/29/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/29/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/3/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/3/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/3/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/3/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/4/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/4/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/4/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/4/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/5/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/5/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/5/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/5/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/6/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/6/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/6/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/6/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/7/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/7/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/7/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/7/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/8/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/8/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/8/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/8/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/9/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/9/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/9/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120112744_027_79791/superSteps/9/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/counters/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/counters/graph_20200120142637_911_76705" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/input/example_project/pagerank_in/__schema__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/input/example_project/pagerank_in/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/job.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/output/__default__/__schema__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/output/__default__/attempt_graph_20200120142637_911_76705_000000_0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/1/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/1/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/1/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/1/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/10/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/10/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/10/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/10/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/11/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/11/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/11/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/11/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/12/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/12/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/12/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/12/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/13/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/13/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/13/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/13/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/14/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/14/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/14/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/14/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/15/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/15/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/15/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/15/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/16/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/16/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/16/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/16/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/17/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/17/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/17/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/17/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/18/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/18/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/18/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/18/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/19/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/19/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/19/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/19/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/2/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/2/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/2/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/2/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/20/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/20/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/20/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/20/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/21/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/21/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/21/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/21/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/22/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/22/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/22/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/22/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/23/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/23/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/23/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/23/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/24/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/24/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/24/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/24/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/25/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/25/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/25/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/25/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/26/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/26/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/26/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/26/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/27/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/27/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/27/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/27/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/28/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/28/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/28/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/28/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/29/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/29/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/29/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/29/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/3/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/3/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/3/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/3/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/4/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/4/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/4/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/4/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/5/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/5/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/5/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/5/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/6/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/6/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/6/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/6/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/7/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/7/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/7/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/7/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/8/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/8/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/8/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/8/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/9/1/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/9/2/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/9/3/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/graph_20200120142637_911_76705/superSteps/9/4/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/data" beforeDir="false" afterPath="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/__schema__" beforeDir="false" afterPath="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/__schema__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/ConnectedComponents$CCVertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/ConnectedComponents$CCVertexReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/ConnectedComponents$MinLongCombiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/ConnectedComponents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/Kmeans$KmeansAggrValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/Kmeans$KmeansAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/Kmeans$KmeansVertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/Kmeans$KmeansVertexReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/Kmeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/PageRank$PageRankVertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/PageRank$PageRankVertexReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/PageRank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/SSSP$MinLongCombiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/SSSP$SSSPVertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/SSSP$SSSPVertexReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/graph/SSSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/Resource$TokenizerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/Resource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/WordCount$SumCombiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/WordCount$SumReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/WordCount$TokenizerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/mr/test/WordCountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/UDAFExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/UDAFResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/UDFExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/UDFResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/UDTFExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/UDTFResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/test/UDAFTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/test/UDFTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udf/test/UDTFTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/udj/PayUserLogMergeJoin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/SpeechSentenceSnrExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/SpeechStorageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/TextExtractor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/TextExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/TextOutputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/TextStorageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/UtteranceLabel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/test/ExtractorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aliyun/odps/examples/unstructured/test/OutputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/ambulance_csv/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/ambulance_csv/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/speech_wav/tsh148_seg_2_3013_3_6_48_80bd359827e24dd7_0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/speech_wav/tsh148_seg_3013_1_31_11_9d7c87aef9f3e559_0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/speech_wav/tsh148_seg_3013_2_29_49_f4cb0990a6b4060c_0.wav" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -266,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConnectedComponents.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConnectedComponents.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -278,38 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="attempt_graph_20200120150337_950_96973_000000_0" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/attempt_graph_20200120150337_950_96973_000000_0">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__schema__" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/__schema__">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/data">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__schema__" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/__schema__">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="130">
+              <caret line="52" column="48" lean-forward="true" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -329,13 +102,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/Kmeans.java" />
         <option value="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/__schema__" />
         <option value="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/__schema__" />
         <option value="$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java" />
         <option value="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/attempt_graph_20200120144429_298_86601_000000_0" />
         <option value="$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/data" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -372,6 +145,16 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="odps-studio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="odps-studio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="odps-studio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -379,7 +162,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="961" />
@@ -427,6 +211,36 @@
               <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
               <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="graph_20200120183722_179_40389" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="graph_20200120183722_179_40389" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="graph_20200120183722_179_40389" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="__default__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
               <item name="warehouse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -443,24 +257,6 @@
               <item name="warehouse" type="462c0819:PsiDirectoryNode" />
               <item name="example_project" type="462c0819:PsiDirectoryNode" />
               <item name="__tables__" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="example_project" type="462c0819:PsiDirectoryNode" />
-              <item name="__tables__" type="462c0819:PsiDirectoryNode" />
-              <item name="kmeans_out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="odps-studio-test" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="odps-studio-test" type="462c0819:PsiDirectoryNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="example_project" type="462c0819:PsiDirectoryNode" />
-              <item name="__tables__" type="462c0819:PsiDirectoryNode" />
-              <item name="oneid_in" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="odps-studio-test" type="b2602c69:ProjectViewProjectNode" />
@@ -484,7 +280,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="studioAccounts" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -534,8 +330,8 @@
         </pattern>
       </extension>
       <odpsJavaType>GRAPH</odpsJavaType>
-      <odpsEndpoint>local</odpsEndpoint>
-      <odpsProjectName>example_project</odpsProjectName>
+      <odpsEndpoint>http://service.cn-beijing.maxcompute.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>qjy_test_yjz_dev</odpsProjectName>
       <tableName />
       <tableColumns />
       <tablePartition />
@@ -623,15 +419,23 @@
       <option name="presentableId" value="Default" />
       <updated>1579489672347</updated>
       <workItem from="1579489676256" duration="4672000" />
-      <workItem from="1579502316251" duration="1812000" />
+      <workItem from="1579502316251" duration="7846000" />
     </task>
+    <task id="LOCAL-00001" summary="连通分量调试通过">
+      <created>1579504420634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579504420634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6484000" />
+    <option name="totallyTimeSpent" value="12518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="961" extended-state="6" />
+    <frame x="22" y="23" width="1680" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -641,13 +445,13 @@
       <window_info id="Image Layers" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3894994" side_tool="true" weight="0.3472222" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32967034" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61050063" visible="true" weight="0.3472222" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.24053724" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.61050063" visible="true" weight="0.30555555" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1984127" />
       <window_info id="Project Explorer" order="3" />
       <window_info id="Job Explorer" order="7" />
       <window_info anchor="bottom" id="Console" order="9" />
@@ -656,7 +460,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16898148" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -672,34 +476,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="连通分量调试通过" />
+    <option name="LAST_COMMIT_MESSAGE" value="连通分量调试通过" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java</url>
+          <line>95</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/Kmeans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3705">
-          <caret line="247" selection-start-line="245" selection-start-column="47" selection-end-line="245" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/__schema__">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -727,13 +526,6 @@
     <entry file="file://$PROJECT_DIR$/../src/main/java/com/springtest/demo/DemoApplication.java" />
     <entry file="file://$PROJECT_DIR$/../src/main/java/com/springtest/demo/Controller/helloController.java" />
     <entry file="file://$PROJECT_DIR$/../src/test/java/com/springtest/demo/DemoApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/kmeans_in/data">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -812,17 +604,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/__schema__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/__schema__">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_in/__schema__">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -836,17 +628,184 @@
     <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/attempt_graph_20200120150337_950_96973_000000_0">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warehouse/example_project/__resources__/table_resource2/__ref__">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/graph_20200120183531_256_39355/output/__default__/__schema__">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/udf/UDAFExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/graph_20200120183722_179_40389/output/__default__/__schema__">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-graph-local/0.31.4-public/odps-graph-local-0.31.4-public.jar!/com/aliyun/odps/graph/local/LocalGraphJobRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warehouse/example_project/__tables__/oneid_out/attempt_graph_20200120184339_050_43779_000000_0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-graph/0.31.4-public/odps-sdk-graph-0.31.4-public.jar!/com/aliyun/odps/graph/JobConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-graph/0.31.4-public/odps-sdk-graph-0.31.4-public.jar!/com/aliyun/odps/graph/GraphJob.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/impl/WeakHashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+          <folding>
+            <element signature="e#14812#14813#0" expanded="true" />
+            <element signature="e#14851#14852#0" expanded="true" />
+            <element signature="e#14888#14889#0" expanded="true" />
+            <element signature="e#14934#14935#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/impl/Jdk14Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/impl/LogFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/LogFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="654" selection-start-line="654" selection-end-line="654" />
+          <folding>
+            <element signature="e#36136#36288#0" expanded="true" />
+            <element signature="e#36287#36288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-mapred/0.31.4-public/odps-sdk-mapred-0.31.4-public.jar!/com/aliyun/odps/mapred/conf/JobConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odps-studio-test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-commons/0.31.4-public/odps-sdk-commons-0.31.4-public.jar!/com/aliyun/odps/utils/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="498" selection-start-line="498" selection-end-line="498" />
+          <folding>
+            <element signature="e#15823#15824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-commons/0.31.4-public/odps-sdk-commons-0.31.4-public.jar!/com/aliyun/odps/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+          <folding>
+            <element signature="e#2335#2336#0" expanded="true" />
+            <element signature="e#2361#2362#0" expanded="true" />
+            <element signature="e#7577#7578#0" expanded="true" />
+            <element signature="e#7632#7633#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9657#9658#0" expanded="true" />
+            <element signature="e#13346#13347#0" expanded="true" />
+            <element signature="e#13403#13404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-core/0.31.4-public/odps-sdk-core-0.31.4-public.jar!/com/aliyun/odps/account/AliyunRequestSigner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-core/0.31.4-public/odps-sdk-core-0.31.4-public.jar!/com/aliyun/odps/account/AliyunAccount.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-mapred/0.31.4-public/odps-sdk-mapred-0.31.4-public.jar!/com/aliyun/odps/mapred/conf/SessionState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+          <folding>
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#11334#11335#0" expanded="true" />
+            <element signature="e#11380#11381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-core/0.31.4-public/odps-sdk-core-0.31.4-public.jar!/com/aliyun/odps/Odps.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/odps/odps-sdk-core/0.31.4-public/odps-sdk-core-0.31.4-public.jar!/com/aliyun/odps/rest/RestClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="133" column="65" lean-forward="true" selection-start-line="133" selection-start-column="65" selection-end-line="133" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/com/aliyun/odps/examples/graph/ConnectedComponents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="52" column="48" lean-forward="true" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
         </state>
       </provider>
     </entry>
